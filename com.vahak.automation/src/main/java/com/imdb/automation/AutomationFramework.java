@@ -42,7 +42,7 @@ public class AutomationFramework {
 
 	}
 
-	@Test(enabled=false)
+	@Test
 
 	public void signUp() {
 		signUp.details(driver, pr);
